@@ -1,0 +1,4 @@
+config.json
+flask_app.log
+server.log
+env/
