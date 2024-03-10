@@ -2,3 +2,5 @@ config.json
 flask_app.log
 server.log
 env/
+token.config
+__pycache__/
