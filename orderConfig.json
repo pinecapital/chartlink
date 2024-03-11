@@ -1,0 +1,13 @@
+{
+    "SBIN": {
+      "qty_multiplier": 1,
+      "tp": 10.0,
+      "sl": 5.0
+    },
+    "IGL": {
+      "qty_multiplier": 2,
+      "tp": 15.0,
+      "sl": 7.0
+    }
+  }
+  
